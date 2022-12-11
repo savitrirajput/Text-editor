@@ -1,4 +1,5 @@
-https://github.com/savitrirajput/Text-editor#Text-editor  CBTextEditor
+https://github.com/savitrirajput/Text-editor#Text-editor
+CBTextEditor
 
 
 
